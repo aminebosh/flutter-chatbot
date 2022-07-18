@@ -1,0 +1,352 @@
+{"intents": [
+
+    {"tag" : "Abdominal Pain",
+        "patterns" : "Nausea, Vomiting, Flatulence, Diarrhea, Constipation",
+        "responses" : "Abdominal pain often called stomach ache is a common condition that almost everyone experiences at some point in their life. That's because there are many possible causes for abdominal pain. It can develop without a diagnosable underlying condition. However, it can also be caused by digestive problems, inflammations, or infections."
+        },
+    {"tag" : "Achilles Tendonitis",
+        "patterns" : "Pain at the back of the foot and heel when moving the ankle, Pain when pointing the toes, or pushing off from the toes, Pain which becomes worse after exercising, Stiffness along the back of the foot and heel, especially with the first steps in the morning, Swelling and tenderness in the back of the foot and heel, Thickening of the tendon, Bone spurs",
+        "responses" : "Achilles tendonitis, also known as Achilles tendinopathy or Achilles tendinitis, is a condition affecting the Achilles tendon. The Achilles tendon is a large tendon which attaches the calf muscles to the bony heel of the foot. When the tendon becomes inflamed or damaged, usually through overuse, a person has developed Achilles tendonitis and will experience pain."
+        },
+    {"tag" : "Acute Aspiration of Oropharyngeal or Gastric Contents",
+        "patterns" : "cough with eating, choking, shortness of breath, chest pain, wheezing, extreme tiredness, fever, blue tinge to the lips, blue tinge to the fingers, blue tinge to the feet.",
+        "responses" : "Aspiration is a condition where fluids or solid particles (especially food) go into the windpipe or lungs (are inhaled or aspirated), instead of being swallowed into the esophagus and stomach. This can cause blockage of the airways and inflammation and infection of the lungs."
+        },
+    {"tag" : "Acute Bronchitis", 
+        "patterns" : "dry Cough ,Sore throat, Fever, Chest congestion, Shortness of breath, Wheezing, Chills, Fatigue, Unexplained weight loss.",
+        "responses" : "Acute bronchitis, also commonly called a chest cold, is a short-term inflammation of the bronchial tubes which carry air to and from the lungs."
+        },
+    {"tag" : "Acute Gastritis", 
+        "patterns" : "stomach pain or discomfort, heartburn, loss of appetite, nausea and vomiting, vomiting of blood, weight loss, fever , an unusual feeling of fullness in the stomach area, feeling full too quickly after eating.",
+        "responses" : "Acute gastritis is an inflammation or irritation of the stomach lining. The condition tends to last for a short period of time only. If the inflammation persists, however, the condition is referred to as chronic gastritis."
+        },
+    {"tag" : "Acute Heart Failure", 
+        "patterns" : "Shortness of breath while moving or lying flat , Feeling tired , A cough that may be worse at night or when lying down, Swelling of feet, ankles, Swelling of legs, Swelling of abdomen, Swelling of veins in the neck, Cool peripheries such as hands and feet, Veins in the neck protruding.",
+        "responses" : "Heart failure is a state of reduced cardiac output, in which the heart cannot pump blood around the body effectively. When symptoms appear suddenly, or a person experiences rapid worsening of existing symptoms of heart failure, this is called acute heart failure (AHF) or acute decompensated heart failure (ADHF). This condition can be life threatening and should be urgently evaluated by a doctor, as outcomes can be affected by whether a person gets early and appropriate treatment."
+        },
+    {"tag" : "Acute HIV Infection", 
+        "patterns" : "Mouth ulcers, Red rash, Aching muscles, Joint pains, Unintentional weight loss, Fever, Loss of coordination, Tiredness, Headache, Swollen lymph nodes, Sore throat, Diarrhea  ",
+        "responses" : "Acute HIV infection, also known as an early or primary retroviral infection, is a condition that develops within two to four weeks of contracting human immunodeficiency virus (HIV)."
+        },
+    {"tag" : "Acute Laryngitis",
+        "patterns" : "Dysphonia (hoarseness of the voice), Fever, Sore throat, A need to clear the throat frequently, cough",
+        "responses" : "Acute laryngitis is a short-term inflammatory condition affecting the larynx, or voice box, typically lasting less than 3 weeks. Laryngitis which lasts longer than three weeks is called chronic laryngitis."
+        },
+    {"tag" : "Acute Otitis Media",
+        "patterns" : "pain in the ear , difficulty hearing, headaches, fever, burst eardrum, pus run from the ear ",
+        "responses" : "Acute otitis media is an infection of the middle ear. The middle ear is the part of the ear inside the eardrum, and helps conduct sound through the ear. Middle ear infections are not as common in adults as they are in children."
+        },
+    {"tag" : "Acute Pancreatitis",
+        "patterns" : "Sudden pain in the upper abdomen, Severe pain in the upper abdomen, Persistant pain in the upper abdomen, Nausea, vomiting, Fever, Loss of appetite, Elevated heart rate, Tender abdomen, Blue or gray skin discoloration around the sides, Blue or gray skin discoloration around the navel",
+        "responses" : "Acute pancreatitis is an inflammation in the pancreas. The pancreas is an organ behind the stomach and connected to the bowel. It produces enzymes, which are necessary to break down food during digestion and helps regulate the body's glucose levels by producing the hormones insulin and glucagon."
+        },
+    {"tag" : "Acute Panic Attack",
+        "patterns" : "Palpitations, pounding heart, accelerated heart rate, Sweating, Trembling or shaking, Sensations of shortness of breath or smothering, Feeling of choking, Chest pain or discomfort, Nausea or abdominal distress, Feeling dizzy, Feeling unsteady, Feeling lightheaded or faint, Chills or heat sensations, Paresthesias, numbness or tingling sensations, Derealization (feelings of unreality) or depersonalization (being detached from oneself), Fear of losing control or going crazy, Fear of dying.",
+        "responses" : "A panic attack is an abrupt episode characterized by a sudden, intense feeling of fear or discomfort. A person having a panic attack may feel that they are dying or losing their sanity during the attack. Although this is an inherently distressing experience, panic attacks pose no serious actual health risks. The typical duration of a panic attack episode is between 5 and 20 minutes, after which both the mental and physical symptoms associated with the attack will abate."
+        },
+    {"tag" : "Acute Pharyngitis",
+        "patterns" : "Sore throat, Pain or difficulty when swallowing or talking, Swollen, sore glands in the neck or throat, Red throat and red, swollen tonsils, A hoarse voice, White or grey patches on the back of the throat",
+        "responses" : "Pharyngitis, or acute pharyngitis, colloquially sometimes called cobblestone throat, is an inflammation of the back of the throat, otherwise known as the pharynx. The condition generally causes pain and a sensation of scratchiness in the region of the throat, as well as difficulty swallowing. The condition is typically referred to as a sore throat."
+        },
+    {"tag" : "Acute Pyelonephritis",
+        "patterns" : "pain in the back, flank or belly, fever at or above 38 C or 100.4 F, chills, nausea and vomiting, Urine that has an unusual or unpleasant smell , Hematuria (blood in the urine), Urinary frequency ,Urinary urgency, Dysuria (painful or difficult urination), Oliguria (lack of urine), Hypotension (low blood pressure).",
+        "responses" : "Acute pyelonephritis is a bacterial infection of the kidneys. While most episodes clear without causing lasting renal damage, it can be severe and is usually quite painful, although few patients will need to be hospitalised."
+        },
+    {"tag" : "Acute Stress Disorder",
+        "patterns" : "flashbacks, nightmares or intrusive memories, avoidance of reminders of the event, difficulty remembering it, dissociation, an inability to experience positive emotions, anxiety, sleep disturbances, irritability, difficulty concentrating.",
+        "responses" : "A person who has experienced or witnessed a life-threatening, terrifying or otherwise deeply traumatic event may, in some cases, develop acute stress disorder (ASD), sometimes also called acute stress reaction."
+        },
+    {"tag" : "Acute Varicella Zoster (Chickenpox)",
+        "patterns" : "itchy rash on the torso, itchy rash on the scalp, itchy rash on the face, itchy rash on the arms, itchy rash on the legs, Fever, Headache, Body aches, Loss of appetite.",
+        "responses" : "Varicella zoster is a virus which can cause an acute infection called chickenpox. This virus also causes shingles. It is a member of the human herpesvirus family, which is made up of eight viruses that affect humans. The varicella zoster virus is also sometimes called herpes zoster or human herpesvirus-3 (HHV-3)."
+        },
+    {"tag" : "Allergic Conjunctivitis",
+        "patterns" : "Pinkness or redness of the eyes, Burning, intense itching or a sensation of grittiness in the eyes, Watering of the eyes, the discharge is clear, Swollen eyelids, eyelids are red on the inside, Slight sensitivity to bright light, itchy nose, sneezing, scratchy throat",
+        "responses" : "Conjunctivitis is the name for inflammation of the conjunctiva, which is the thin layer of tissue on the inside of the eyelids and which covers the white part of the eye. It's also known as pink eye."
+        },
+    {"tag" : "Allergic Rhinitis",
+        "patterns" : "Sneezing, stuffy nose, runny nose, itchy nose, Red eyes, itchy eyes, watery eyes, Coughing, a mucus build up at the back of the throat, Swelling around the eyes, sore throat, Headache.",
+        "responses" : "Allergic rhinitis is a condition in which inflammation develops inside the nose; this is caused by an allergic reaction to particles in the air. These particles, which are otherwise harmless to the body, are known as allergens."
+        },
+    {"tag" : "Alzheimer's Disease",
+        "patterns" : "Loss of memory, need to ask the same questions repeatedly, Needing more time to complete day-to-day tasks for example handling money and paying bills, Visual complaints such as difficulty reading and driving, Worsening memory loss and increasing confusion, Shortening attention span, Changes to usual personality and behaviour, A growing reluctance to use initiative and try new things, Increased emotion and anxiety, Difficulty recognizing family and friends, Increased difficulty with reading, writing and mathematical questions, Difficulty learning new things, The way to complete day-to-day tasks such as getting dressed may be forgotten, Restlessness, agitation, annoyance, Hallucinations, delusions, paranoia, Lessened ability to think things through logically, The need to wander, Performing repetitive actions or repeating the same information when speaking, an inability to control impulses, saying inappropriate things to others, Muscular twitching .",
+        "responses" : "Alzheimer's disease is a brain condition in which certain mental functions such as memory or reasoning are lost over time. It is the most common form of dementia."
+        },
+    {"tag" : "Amyotrophic Lateral Sclerosis (ALS)",
+        "patterns" : "Muscle weakness and tingling in the arms or legs or neck, Muscle twitches in the arms or legs or shoulder or tongue, Muscle cramps, Stiff muscles, Slurred speech or voice becoming more nasal, Difficulty swallowing or chewing, Bouts of uncontrollable emotion such as crying or laughter, Being unable to walk, Being unable to stand, Losing the use of hands and arms, Having difficulty swallowing or chewing leading to coughing or choking when eating or drinking, Having difficulty speaking, Having difficulty breathing, Weight loss",
+        "responses" : "Amyotrophic lateral sclerosis (ALS), also known motor neuron disease (MND) in the U.K. or Lou Gehrig's Disease in the U.S., is defined as a rare, progressive neurological disorder which causes nerve damage and muscle weakness. ALS affects and destroys nerve cells, called motor neurons, which are located within the spinal cord and brain and which control muscle movement. The destruction of these nerves causes progressive muscle weakness and eventually leads to paralysis."
+        },
+    {"tag" : "Anal Cancer",
+        "patterns" : "Bleeding from the anus, Anal or pelvic pain, Anal itching, Discharge from the anus, A lump in or near the anus, A change in bowel habits such as increased gas or losing control of one's bowel or hard or soft feces, Severe or complete constipation, Swollen lymph nodes in the groin and anal region.",
+        "responses" : "Anal cancer is a rare cancer that arises from the anus. The anus is comprised of the anal canal, a passage about 3-4 cm or 1.5 inches and the anal margin, also known as perianal skin, the opening where feces is excreted from the body. Anal cancer refers to several types of cancer that can develop in this area."
+        },
+    {"tag" : "Anal Fissure",
+        "patterns" : "A sharp or searing or burning pain in or around the bottom which tends to be worse when passing feces and for about an hour or so afterwards, Some bleeding, usually bright red on the toilet paper or stool, Itching, Spasms or a tightening feeling in the anus when feces is excreted, A sentinel pile below the fissure, a tag of skin which sometimes develops on the edge of the anus below the fissure,painful boil-like swellings near the anus filled with pus.",
+        "responses" : "An anal fissure is a common condition where there is a painful tear in the lining of the anus, the backside opening where feces is excreted. It is often described as feeling like passing broken glass."
+        },
+    {"tag" : "Anaphylaxis",
+        "patterns" : "Itchy skin sometimes developing into hives a rash of raised pink or red areas, General reddening of the skin, Wheezing, hoarseness and a tight chest, difficulty breathing, Swelling of the lips, Swelling of the tongue, Swelling of the throat, Irritation and inflammation of the eyes and nasal passages, Swelling of the eyes, Swelling of the hands, Swelling of the feet, Dizziness, Nausea and vomiting especially if the trigger was eaten, sense of impending doom, fast or thumping heart, Stomach cramps, nausea and vomiting, high-pitched wheezing sound, Fast shallow breathing or complete inability to breathe, Bluish skin on the lips and tongue, Confusion, agitation and anxiety, sudden feeling of weakness or dizziness, Loss of consciousness.",
+        "responses" : "Anaphylaxis, also known as an anaphylactic reaction, is an extreme allergic reaction affecting multiple groups of organs of the body. Anaphylaxis is a medical emergency and requires immediate medical treatment."
+        },
+    {"tag" : "Anemia",
+        "patterns" : "Fatigue, tiredness, Lethargy, lack of energy, Breathlessness, Faintness, Headaches, Paleness, Palpitations (the feeling that the heart is skipping a beat or pounding), Tinnitus (ringing in the ears), Muscle cramps, Loss of appetite, Altered sense of taste.",
+        "responses" : "Anemia is the general name for a condition where the body either cannot make enough healthy red blood cells and/or has too little hemoglobin, the substance that enables red blood cells to transport oxygen around the body."
+        },
+    {"tag" : "Aortic Dissection",
+        "patterns" : "sudden and intense pain in the chest and upper back commonly described as a shearing or ripping sensation (This pain may spread to the back or arms or legs.), Shortness of breath, Cold hands or feet, Nausea, Sweating, Dizziness, General weakness.",
+        "responses" : "An aortic dissection is a serious condition in which a tear or split occurs in the inner layer of the aorta. The aorta is the largest blood vessel branching from the heart and supplies blood and oxygen to the entire body. If a tear occurs, blood is able to pass through the opening. This can cause the inner and middle layers of the aorta to separate, or dissect."
+        },
+    {"tag" : "Aphthous Mouth Ulcers",
+        "patterns" : "Aphthous ulcers are generally round in shape and form in the soft areas of the mouth such as the inside of the lips or the cheeks or the underside of the tongue, The ulcers are normally shallow and begin as pale yellow in colour and generally turning grey as the condition develops, The ulcers may be ringed with red or appear fully red when inflamed burning or itching sensation inside the mouth which can be painful, eating and drinking and talking may become uncomfortable.",
+        "responses" : "Aphthous mouth ulcers (aphthae) are a common variety of ulcer that form on the mucous membranes, typically in the oral cavity (mouth). Other names for aphthous ulcers include aphthous stomatitis and canker sores."
+        },
+    {"tag" : "Arthritis",
+        "patterns" : "joint pain, joint tenderness, joint stiffness, inflammation in and around the joints, restricted movement of the joints, warm red skin over the affected joint, weakness and muscle wasting, The most commonly affected joints are those in the: hands spine knees hips .",
+        "responses" : "Arthritis is a painful inflammation of one or more joints. By far the most common types of arthritis are osteoarthritis and rheumatoid arthritis."
+        },
+    {"tag" : "Asperger Syndrome",
+        "patterns" : "A narrow range of interests or obsession with certain topics, Difficulties with social situations and communication with others, Speech and hearing abnormalities, Heightened sensory sensitivity, Placing high value on rules and routines, Clumsiness Hypermobile (loose) joints, Difficulties with walking / balance / handwriting / rhythm and other coordinated movements, difficulties with ball play.",
+        "responses" : "Asperger syndrome, also known as Asperger's syndrome or simply Asperger's, is the old name for a condition that is now recognized as part of autism spectrum disorder (ASD)."
+        },
+    {"tag" : "Asthma",
+        "patterns" : "Wheezing , Coughing, Chest tightness, Shortness of breath",
+        "responses" : "Asthma is an inflammatory condition which affects the airways in the lungs. It is one of the most common non-contagious diseases, affecting around 235 million people globally, according to the World Health Organization. The condition can affect men, women and children of all ages. It usually first develops in childhood, but can also appear for the first time in adults."
+        },
+    {"tag" : "Atherosclerosis",
+        "patterns" : "chest pain or angina, pain in the leg, pain in the arm, cramping in the buttocks while walking, shortness of breath, fatigue, confusion, loss of motor or sensory function on one side of the body, muscle weakness in your legs, abdominal pain, shortness of breath, sweating, lightheadedness, nausea or vomiting, a sense of impending doom, weakness or numbness in the face or limbs, trouble speaking, trouble understanding speech, vision problems, loss of balance, sudden and severe headache.",
+        "responses" : "Atherosclerosis is a condition in which fatty deposits, known as plaque, atheroma or atheromatous plaque, build up within the walls of the arteries. Over time, these deposits of plaque may become larger, narrowing the arteries and restricting blood flow to certain organs."
+        },
+    {"tag" : "Atopic Dermatitis",
+        "patterns" : "Itchiness of the skin, which may intensify at nighttime, Patches of red inflamed skin, Small bumps on the skin, Skin flaking",
+        "responses" : "Atopic dermatitis, often called atopic eczema, is a common skin condition that typically causes dry, scaly, itchy, inflamed skin. The condition is particularly common in children under 5 years old, but may persist into later life."
+        },
+    {"tag" : "Bacterial Conjunctivitis",
+        "patterns" : "Pinkness or redness in the eye, Burning in the eye , itching in the eye, a sensation of grittiness in the eye, mild pain or discomfort in the eye, Increased watering of the eye, Thick sticky yellowish discharge from the eye ; this can form a 'crust' at night, making the eyes feel as if they are glued shut in the morning, Swollen eyelids, Slight sensitivity to bright light, swelling of the lymph nodes in front of the ears.",
+        "responses" : "Conjunctivitis is the name for inflammation of the conjunctiva; this is the thin layer of tissue on the inside of the eyelids and covers the white part of the eye. It's also known as pink eye."
+        },
+    {"tag" : "Bacterial Gastroenteritis",
+        "patterns" : "Diarrhea, Abdominal (belly) discomfort or pain or cramps, Bloating, Loss of appetite, Nausea and vomiting, Fever and chills, body aches, Headache, Dizziness, Feeling of weakness, blood in the stool (feces).",
+        "responses" : "Bacterial gastroenteritis is a type of gastroenteritis, a common condition sometimes called stomach flu or food poisoning."
+        },
+    {"tag" : "Bacterial Meningitis",
+        "patterns" : "Fever, Headache, A stiff neck , confusion, disorientation, unusual sleepiness, Pale skin, blotchy skin, bluish skin, Rash, Nausea, Vomiting, Photophobia or discomfort around bright light, Sensitivity to light, Muscle pain or joint pain, Abdominal pain or diarrhea, Irritability, Seizures, Cranial nerve problems such as nonreactive pupils low blood pressure, rapid heartbeat, difficulty breathing, low urine output.",
+        "responses" : "Bacterial meningitis is a bacterial infection of the meninges, the membranes around the brain and spinal cord. It is a serious condition and requires urgent medical treatment."
+        },
+    {"tag" : "Bacterial Prostatitis",
+        "patterns" : "fever, chills, a burning sensation while urinating, difficulty to start urination, pain around the anus, foul-smelling urine, weak urine flow, painful ejaculation, blood in the urine.",
+        "responses" : "Bacterial prostatitis is a condition in which a bacterial infection develops in the prostate gland. The prostate is a gland that sits under the bladder, and forms the first part of the urethra (the tube that carries urine away from the bladder)."
+        },
+    {"tag" : "Bacterial Sinusitis",
+        "patterns" : "Pressure or pain around the nose or in the forehead or in the cheeks or around the eyes (The pain often gets worse if the affected person bends forward), Discolored and thick nasal discharge, Decreased sense of smell and ability to taste, Stuffy nose, Bad breath, Coughing, sore throat, Post-nasal drip (mucus dripping down the back of the throat), Ear pain or a feeling of fullness in the ears, Fever, Fatigue, Facial pain, Painful teeth, Painful chewing.",
+        "responses" : "Bacterial sinusitis is a bacterial infection of the paranasal sinuses, the hollow spaces in the bones of the face around the nose."
+        },
+    {"tag" : "Benign Paroxysmal Positional Vertigo",
+        "patterns" : "Recurrent short attacks of dizziness, The dizziness associated feels like the world is spinning rather than a feeling of lightheadedness, nausea, vomiting, loss of balance, the attacks occur after suddenly turning the head or moving from lying to sitting.",
+        "responses" : "Benign paroxysmal positional vertigo (BPPV) is a common condition of the inner ear. This condition causes short episodes of dizziness (vertigo) associated with certain head movements. "
+        },
+    {"tag" : "Benign Prostatic Hyperplasia",
+        "patterns" : "The need to urinate frequently including at night, Strong urges to urinate that appear suddenly and may lead to urinary leakage, A weak or interrupted urine stream, Urinary dribbling which is where urine slowly leaks out after urination, The sensation that the bladder is never truly empty, Pain while urinating, Red-tinted urine due to presence of small amounts of red blood cells in the urine.",
+        "responses" : "Benign prostatic hyperplasia (BPH) is a non-cancerous enlargement of the prostate gland (a gland surrounding the neck of the bladder in men). The condition is sometimes also called benign enlargement of the prostate (BEP), in cases where the enlarged prostate reaches or advances beyond a certain size of around 30 cubic cm."
+        },
+    {"tag" : "Bladder Cancer",
+        "patterns" : "blood in the urine, Needing to urinate more frequently than usual, Needing to urinate very urgently, Pain on urination.",
+        "responses" : "Bladder cancer is a common cancer that usually develops in the bladder lining. In some cases, it may spread into the bladder muscle. This condition is the ninth most common cancer, occurring more often in men than women."
+        },
+    {"tag" : "Breast Cancer",
+        "patterns" : "A painless lump or mass in the breast, Change in breast size or shape, Changes in skin texture, Change in breast color, Change in nipple shape, Rash or crusting over the nipple, Nipple discharge, Pain in a breast or armpit, Lumps or swellings in the armpit or around the collarbone. ",
+        "responses" : "Breast cancer is the most common cancer in women. Breast cancer is most common in women over 50 years of age, though it can occur in younger women and, rarely, in men."
+        },
+    {"tag" : "Burnout",
+        "patterns" : "headache, back pain, disturbed sleep, nausea, tense muscles, tiredness, feeling irritable, feeling tense, feeling unmotivated, feeling indifferent (not care about things) and cynical, socially distance from others, lose confidence in work, feel unproductive and overloaded.",
+        "responses" : "Burnout is a state of ongoing mental, emotional and physical exhaustion which occurs as a result of overwhelming demands, chronic stress or job dissatisfaction. Although it is not illness on its own, it is recognized as being a stepping stone to more severe physical and mental conditions. With burnout, people may feel worn out everyday, cynical, unenthusiastic, and find reduced satisfaction from their job."
+        },
+    {"tag" : "Candida Vulvovaginitis",
+        "patterns" : "An itching and/or burning sensation around the vulva and vaginal opening, Pain during sexual intercourse, Pain when urinating, Soreness, redness and swelling of the vulva, Vaginal discharge which can range from watery to thick and chunky.",
+        "responses" : "Candida vulvovaginitis, also known as vaginal thrush, vaginal yeast infection and vaginal candidiasis, is a common infection of the vulva and vagina."
+        },
+    {"tag" : "Cataracts",
+        "patterns" : "Blurred vision, clouded vision, dimmed vision, Sensitivity to light and glare particularly at night, Objects appear yellow-tinged or faded in color, Halos appearing around lights, Changes in glasses prescription.",
+        "responses" : "A cataract is a clouding of the eye's lens which leads to a decrease in vision and, in some cases, possible blindness."
+        },
+    {"tag" : "Celiac Disease",
+        "patterns" : "Transient abdominal (belly) pain, Bloating, Flatulence or excess wind, Fatty pale smelly stools that float in the toilet, diarrhea, rarely constipation, Poor appetite, Nausea, vomiting, Rash, Fatigue, Irritability and depression, Headaches, unintentional weight loss.",
+        "responses" : "Celiac disease is a serious, lifelong condition caused by the immune system reacting to gluten, a protein found in wheat, rye, barley and several other grains."
+        },
+    {"tag" : "Cervical Cancer",
+        "patterns" : "vaginal discharge, vaginal bleeding in between menstruation or after sex, pain during sex, and pain in the lower part of the belly.",
+        "responses" : "Cervical cancer is a cancer of the cervix. The cervix is the lower part of the uterus (the womb) that opens into the vagina. Cervical cancer is a common cancer in women."
+        },
+    {"tag" : "Cervicitis",
+        "patterns" : "Grayish or yellowish vaginal discharge, Vaginal bleeding or spotting either after sexual intercourse or between periods, Pain during sexual intercourse, A burning sensation when urinating.",
+        "responses" : "Cervicitis is an inflammatory condition of the cervix, the neck of the womb."
+        },
+    {"tag" : "Chest Cold",
+        "patterns" : "Fever, Headache, Aches and pains, persistent cough, shortness of breath, fatigue, cold or flu.",
+        "responses" : "A chest cold, or acute bronchitis, is a condition affecting the bronchial tubes of the lungs, causing short-term inflammation and irritation of these airways."
+        },
+    {"tag" : "Cholecystitis",
+        "patterns" : "persisting severe pain in the upper or upper-right area of the belly, breathing in deeply may make the pain worse, Loss of appetite, Nausea, Vomiting, Sweating, Fever, yellowing of the skin and the whites of the eyes.",
+        "responses" : "Cholecystitis is the medical term for inflammation of the gallbladder. The condition tends to be more prevalent among women than men and is more common in older adults."
+        },
+    {"tag" : "Chronic Heart Failure",
+        "patterns" : "Tiredness, Dizziness or lightheadedness, Nausea, Loss of appetite, Constipation, Weakness of the legs, Rapid heart rate, an irregular heartbeat, Chest pain, swelling of the legs and ankles, coughing.",
+        "responses" : "Chronic heart failure, otherwise known as congestive heart failure or heart failure, is an ongoing inability of the heart to pump enough blood through the body to ensure a sufficient supply of oxygen."
+        },
+    {"tag" : "Chronic Idiopathic Constipation",
+        "patterns" : "Straining, Hard stools, A feeling of incomplete evacuation, sensation of stool remaining in the bowel after defecating, feeling of blockage in the anus or rectum, Use of hands to facilitate defecation, having fewer than three bowel movements a week.",
+        "responses" : "Chronic idiopathic constipation (CIC) is an ongoing condition without any known cause or identified underlying illness. Constipation is a condition which can be defined as a state of unsatisfactory defecation, with characteristic features of infrequent stools and difficulty in passing stools, or both."
+        },
+    {"tag" : "Chronic Laryngitis",
+        "patterns" : "Vocal hoarseness, Sore throat, Coughing, Swallowing problems.",
+        "responses" : "Laryngitis may be short-lived (acute) or last for a longer time. Chronic laryngitis is an inflammatory condition affecting the larynx (voice box) which persists for more than three weeks."
+        },
+    {"tag" : "Chronic Pancreatitis",
+        "patterns" : "very strong pain in the abdomen, Nausea, Vomiting, Diarrhea, Greasy looking and bad smelling stools, Pale or clay-colored stools, Weight loss, Flatulence, Distended abdomen, Tiredness.",
+        "responses" : "Chronic pancreatitis is a continuing, chronic and irreversible inflammatory process of the pancreas without the possibility of healing, which worsens over time, leading to permanent damage and tissue scarring. The pancreas is the organ behind the stomach, connected to the bowel. It produces enzymes necessary for digestion and helps regulate the body's glucose levels by producing the hormones insulin and glucagon."
+        },
+    {"tag" : "Chronic Pelvic Pain",
+        "patterns" : "pain in the area below the belly button which lasts for at least six months, Abdominal tenderness, Pain or difficulty while urinating, A feeling following urination that the bladder has not been completely emptied, Waking frequently during the night with the need to urinate, Pain or difficulty during sexual intercourse, Pain during menstruation accompanied by abdominal cramps, Headaches.",
+        "responses" : "Chronic pelvic pain, or chronic pelvic pain syndrome, is a long-term condition characterized by abdominal pain in the area below the belly button."
+        },
+    {"tag" : "Chronic Renal Failure",
+        "patterns" : "The urge to urinate more frequently, Urine may be pale and foamy, high blood pressure, Swelling of the legs, Poor appetite, weight loss, Muscle cramps or twitches, Developing brown spots on the skin, Worsening of swelling including on the hands ankles feet and around the eyes, Drowsiness or lack of concentration, Feeling lethargic and without energy, Bruising easily, Blood in the stool, Amenorrhea (periods stopping),Itchy dry skin, Pain in the bones, Increased susceptibility to infection, Nausea and vomiting.",
+        "responses" : "Chronic renal failure is a condition involving a decrease in the kidneys' ability to filter waste and fluid from the blood. It is chronic, meaning that the condition develops over a long period of time and is not reversible. The condition is also commonly known as chronic kidney disease (CKD)."
+        },
+    {"tag" : "Cluster Headaches (CHs)",
+        "patterns" : "Headaches that affect one side of the head and face, pain which develops very suddenly and is incredibly intense, A reddened teary eye, Shrinking of the pupil in the eye, A drooping or swollen eyelid, A blocked and/or stuffy nostril, A sweaty face and forehead, A pale or flushed face,  Restlessness (pacing and agitated movement), Spreading of the pain to the face head neck and shoulders, A need to avoid light and sound.",
+        "responses" : "Cluster headaches (CHs) are a relatively uncommon headache disorder. This kind of headache affects people in bouts (clusters), over periods of weeks or months. According to the World Health Organization, CHs affect around one in a thousand people."
+        },
+    {"tag" : "Cold Sores (Herpes Labialis)",
+        "patterns" : "swollen and irritated gums with small and painful sores in and around the mouth, sore throat and swollen glands, producing more saliva than normal, high temperature,  fever, dehydration, feeling sick, nausea, headaches, itching and tingling followed by painful blisters on the mouth and lip area, muscle pain.",
+        "responses" : "Cold sores, also known as herpes labialis, is a viral infection. In the majority of cases, it is caused by the so-called herpes simplex virus 1 (HSV-1) but also can be caused by the herpes simplex virus 2 (HSV-2). Patients with cold sores typically have one or more painful blisters on the lips area."
+        },
+    {"tag" : "Colorectal Cancer",
+        "patterns" : "Blood or mucus in the feces, Changes in bowel habits such as having diarrhea or being constipated, A feeling of needing a bowel movement that does not go away after having one, Pain from gas bloating cramps or a feeling of being full, Bleeding from the anus, Iron-deficiency anemia, Unexplained and/or unintended weight loss, Tiredness or feeling weaker than normal.",
+        "responses" : "Colorectal cancer, also known as bowel cancer, is a cancer that begins in the large intestine, the endpoint of the body's digestive system, which food waste travels through, before exiting the body."
+        },
+    {"tag" : "Common Cold",
+        "patterns" : "Coughing, Sneezing, A sore throat, A runny or blocked nose, A hoarse voice, a feeling of general discomfort and illness which should to be confused with general fatigue, Fever, Headache, Earache, A feeling of pressure in the ears and face, Muscle pain .",
+        "responses" : "A common cold is a mild viral infection of the nose, throat, sinuses and upper airways."
+        },
+    {"tag" : "Concussion Syndrome",
+        "patterns" : "blurred vision (or seeing double), a headache, loss of balance, confusion and memory problems ,lost of consciousness for a short time, nausea, dizziness, mood and behavioral changes, vomit repeatedly, developping a discharge from the nose or black eyes .",
+        "responses" : "Concussion refers to any mild head injury. Concussion can cause headaches, confusion, tiredness, mood changes and nausea."
+        },
+    {"tag" : "Conversion Disorder",
+        "patterns" : "Blindness, Double vision, Weakness or paralysis, Muscular spasms, Seizures, Loss of balance, Trouble coordinating movements, Numb skin or tingling limbs, Loss of sensation in limbs, Memory loss, Unresponsiveness, Deafness, Difficulty swallowing, Inability to speak (aphonia), Loss of sense of smell (anosmia), Motor tics, Hallucinations, false pregnancy.",
+        "responses" : "Conversion disorder is a condition in which people experience symptoms affecting the nervous system that have no physical explanation."
+        },
+    {"tag" : "Costochondritis",
+        "patterns" : "Pain in the area where the rib meets the breastbone which is known as the costochondral joint (junction), Tenderness in the costochondral joint that can be elicited by pressing on it, fever, sweating, redness on the chest, dizziness, nausea.",
+        "responses" : "Costochondritis is an inflammation of the cartilage between the rib and the breastbone."
+        },
+    {"tag" : "COVID-19 (coronavirus disease 2019)",
+        "patterns" : "continuous cough, high temperature, fever, chills, loss of or change in your normal sense of taste or smell, shortness of breath, unexplained tiredness, lack of energy, muscle aches or pains that are not due to exercise, not wanting to eat, not feeling hungry, headache tha's unusual or longer lasting than usual, sore throat, stuffy or runny nose, diarrhea, feeling sick or being sick.",
+        "responses" : "COVID-19 is the disease resulting from infection by a new respiratory virus (SARS-CoV-2), first identified on December 8, 2019 in Wuhan, Hubei Province, China as the cause of a respiratory illness outbreak."
+        },
+    {"tag" : "Crohn's Disease",
+        "patterns" : "Abdominal pain and cramping and often occurs one or two hours after eating, Diarrhea, Fatigue, Blood in one's stools, Mucus in one's stools, Unintentional weight loss, Nausea, vomiting, High temperature, being prone to fevers, Swelling and pain in the joints, Mouth ulcers, Skin irritation involving redness swelling and itching, red and irritated eyes.",
+        "responses" : "Crohn's disease is one of the two main forms of inflammatory bowel disease (IBD). The other main form of IBD is ulcerative colitis (UC)."
+        },
+    {"tag" : "Cushing's Syndrome",
+        "patterns" : "a red full face (moon face), weight gain around the belly, a hump between the shoulders, erection problems, decreased sexual desire, thinning stretch marks on the skin, easy bruising, increased body hair growth, muscle weakness. ",
+        "responses" : "Cushing's syndrome is a condition caused by an excess of a steroid hormone called cortisol."
+        },
+    {"tag" : "Dementia With Lewy Bodies",
+        "patterns" : "difficulties with thinking, difficulties with memory, difficulties with planning and reasoning, visual hallucinations, movement disorders, tremors, stiff limbs, slowed movements, dizziness, falls, bowel issues, sleeping problems, sleep walking,  calling out during sleep, depression.",
+        "responses" : "Dementia with Lewy bodies (or 'Lewy body dementia') is a common form of dementia in which abnormal proteins develop inside the brain cells. This condition commonly affects older adults."
+        },
+    {"tag" : "Dental Abscess",
+        "patterns" : "tooth feels tender and loose in the jaw, tooth sensitive to heat and/or cold in the mouth, tooth sensitive to pressure or to being tapped and slightly raised, Swelling in the gums or face, Redness of the skin over the affected part of the gum, Bleeding in the gums, Swollen lymph glands in the neck, Generally feeling unwell (malaise), Loss of appetite or inability to eat, Fever, Difficulty swallowing, Difficulty speaking, Dehydration.",
+        "responses" : "An abscess is a pocket of pus that forms within body tissues. Abscesses are the result of an infection, generally bacterial, localized in the area where the abscess forms."
+        },
+    {"tag" : "Diabetes",
+        "patterns" : "Excessive thirst, A need to urinate frequently, Excessive hunger, Fatigue, tiredness, Blurred vision, Wounds that are slow to heal, Unexplained weight loss, Tingling and/or pain in the extremities. ",
+        "responses" : "Diabetes mellitus, commonly referred to as diabetes, is a condition in which the body's blood glucose, or blood sugar, is too high. Glucose comes from the food we eat and is the body's main source of energy. It is helped to reach the cells of the body by insulin, a hormone produced in the pancreas. Diabetes occurs when the body produces no or insufficient quantities of insulin to do this, and so glucose builds up in the blood. There are two main types of diabetes: type 1 diabetes and type 2 diabetes."
+        },
+    {"tag" : "Disseminated Tuberculosis",
+        "patterns" : "Fever, Chills, Night sweats, Malaise, feeling generally unwell, Joint pain, Weight loss, Fatigue, Pale skin due to anemia, Swollen glands, coughing shortness of breath, Skin rashes, Bone pain, diarrhea, Abdominal pain, Swelling.",
+        "responses" : "Disseminated tuberculosis, also known as widespread tuberculosis, is a contagious infection in which a tuberculosis infection has spread from the lungs to other parts of the body, with multiple organs affected."
+        },
+    {"tag" : "Diverticulitis",
+        "patterns" : "changes in bowel habits, diarrhea and constipation, bloating, nausea, vomiting, belly pain, fever, belly pain, blood in the stool, pus in the stool.",
+        "responses" : "Diverticular disease (also diverticulosis) is a condition in which the bowel (large intestine) forms small pouches (diverticula) that bulge outward through the bowel wall."
+        },
+    {"tag" : "Early Disseminated Lyme Disease",
+        "patterns" : "fever, chills, tiredness, muscle aches, joint pain, bull's eye rash, pain and swelling in the joints, numbness, weakness of the facial muscles, memory problems, shortness of breath, headaches.",
+        "responses" : "Early disseminated Lyme disease, also known as Lyme borreliosis, is caused by an infection with the bacteria Borrelia burgdorferi. This bacteria is spread through tick bites."
+        },
+    {"tag" : "Ebola Virus Disease",
+        "patterns" : "fever, sweating, muscle aches, headaches, stomach aches, diarrhea, vomiting, bruising and bleeding from the mouth, bleeding from the eyes, bleeding from the ears, bleeding from the bowel.",
+        "responses" : "Ebola virus disease is an infectious condition caused by the Ebola virus. It leads to an illness characterized by fever and bleeding."
+        },
+    {"tag" : "Endocarditis",
+        "patterns" : "Fever, chills, Fatigue, night sweats, Loss of appetite, Weight loss, Generally feeling unwell, Pain in the muscles, Pain in the joints, Shortness of breath, coughing, Chest pain when breathing, Swelling of the legs ankles or feet, Blood in the urine, Tenderness in the upper half of the abdomen, Red spots on the hands or feet, Red-purple bumps under the skin of the toes or fingers, Small red or purple spots on the skin inside the mouth or on the whites of the eyes, Back pain.",
+        "responses" : "Endocarditis is a rare infection of the inner lining of the heart (endocardium) and the heart valves, usually caused by germs (or, less commonly, fungus) entering the bloodstream and passing into the heart."
+        },
+    {"tag" : "Endometrial Cancer",
+        "patterns" : "bleeding from the vagina after menopause, bleeding from the vagina between periods, pain in the low abdomen or low belly pain during sexual intercourse.",
+        "responses" : "Endometrial cancer, or uterine cancer, is a cancer of the lining of the uterus or womb (the endometrium). This condition is most common in women who have been through menopause."
+        },
+    {"tag" : "Endometrial Polyps",
+        "patterns" : "Irregular menstrual bleeding, Menstrual bleeding that is shorter or longer in length than usual, Menstrual bleeding that occurs at unexpected times, Spotting or bleeding between menstrual periods, Unusually heavy bleeding during periods, Unusual appearance of brown blood after a menstrual period, Spotting or bleeding after menopause, Spotting or bleeding after sexual intercourse, Severe menstrual cramping, Infertility.",
+        "responses" : "Endometrial polyps, also called uterine polyps, are growths in the interior of the uterus or womb, formed of an overgrowth of the cells (endometrium) that line this cavity."
+        },
+    {"tag" : "Epstein-Barr Virus",
+        "patterns" : "Fatigue, low-grade Fever, Swollen lymph glands, A sore throat, Nausea, vomiting, loss of appetite, Enlarged tonsils, Headaches, Body aches, Enlarged spleen, Enlarged liver, Non-itchy skin rash, Jaundice, Eye pain, Chest pain, Sensitivity to light, Muscle pain.",
+        "responses" : "The Epstein-Barr virus is a common virus that infects only humans. It can cause a condition known as infectious mononucleosis, mono or glandular fever."
+        },
+    {"tag" : "Esophageal Cancer",
+        "patterns" : "difficulty swallowing, feeling food sticking in the chest, regurgitating undigested food, reflux, heartburn, hoarseness, coughing when eating or drinking, weight loss, chest pain, vomiting blood.",
+        "responses" : "Esophageal cancer is a cancer which arises from the esophagus (the long tube that carries the food from the mouth through the throat to the stomach)."
+        },
+    {"tag" : "Essential Tremor",
+        "patterns" : "Pain and burning sensations particularly in the hands and feet, Dark red spots on the skin typically between the belly button and knees, Clouded vision, ringing in the ears, general hearing problems, Stomach pain, back pain, kidney pain, diarrhea, vomiting, nausea, Heart attack, Enlarged heart, Stroke, Kidney failure or serious renal complications.",
+        "responses" : "Fabry disease is a rare genetic disorder caused by a deficiency of the enzyme alpha-galactosidase A, also known as alpha-GAL. Alpha-GAL breaks down a fat called globotriaosylceramide (GL-3 or Gb3), which is normally produced inside healthy cells."
+        },
+    {"tag" : "Fibromyalgia",
+        "patterns" : "deep burning pain or ache which occurs in muscles on both sides of the body and in multiple areas, feeling unusually tired, difficulty sleeping, difficulty concentrating, memory problems.",
+        "responses" : "Fibromyalgia is a chronic pain syndrome characterized by widespread muscular pain and tenderness. Locations typically fluctuate among the muscles, joints and back."
+        },
+    {"tag" : "Folate Deficiency", 
+        "patterns" : "Tiredness, fatigue, lethargy, Muscle weakness, Neurological signs such as a feeling of pins and needles tingling or burning or peripheral neuropathy, numbness in the extremities, Psychological problems, depression, confusion, memory problems, problems of judgement and understanding, nausea, vomiting, abdominal pain, weight loss, diarrhea, Headache, dizziness, Pallor, shortness of breath.",
+        "responses" : "Folate is also known as Vitamin B9. It is one of a group of important vitamins involved in cell metabolism. Folate plays a critical role in the synthesis of DNA, RNA and proteins. "
+        },
+    {"tag" : "Functional Dyspepsia",
+        "patterns" : "Pain or discomfort in the chest or upper abdomen usually after eating, Bloating of the stomach, Excessive belching, Heartburn, Feeling full quickly and easily, A feeling of extreme fullness after eating, Nausea.",
+        "responses" : "Functional dyspepsia, also known as non-ulcer dyspepsia or indigestion, is a term used to describe a group of symptoms affecting the gastrointestinal tract, including stomach pain or discomfort, nausea, bloating and belching."
+        },
+    {"tag" : "Gallstones (Symptomatic Cholelithiasis)",
+        "patterns" : "remitting pain in the upper right part of the abdomen, fever, chills, nausea, vomiting, itchiness, yellowing of the eyes or skin, light-colored stools, dark urine.",
+        "responses" : "Gallstones, also known as symptomatic cholelithiasis, are hard, crystal-like deposits that can form in the gallbladder below the liver."
+        },
+    {"tag" : "Gastroenteritis",
+        "patterns" : "Diarrhea which is often watery, Nausea, vomiting, Abdominal pain and cramps, Loss of appetite, Bloating, Fever, Chills, Headache, Body aches, Lethargy.",
+        "responses" : "Gastroenteritis, sometimes called gastro, gastric flu or stomach flu, is a common condition caused by irritation and inflammation of the stomach and intestines."
+        },
+    {"tag" : "Gastroesophageal Reflux Disease",
+        "patterns" : "Heartburn, burning or sharp sensation in the center of the chest, Stomach pain, Pain when swallowing, acidic taste in the mouth, Bloating, Getting full quickly, Bad breath, Non-burning chest pain, A hoarse voice, Nausea, vomiting, Regurgitation of food, Coughing, wheezing, A persistent sore throat, A feeling of a lump in the throat that is present despite swallowing, Enamel erosion.",
+        "responses" : "Gastroesophageal reflux disease, commonly known as GERD or GORD, is a condition in which stomach acid leaks backwards up the esophagus, the tube between the mouth and stomach."
+        },
+    {"tag" : "Genital Herpes",
+        "patterns" : "Itching or pain in or on the genital areas followed by small fluid-filled blisters that develope into crusted sores, Fever, feeling unwell, Pain when passing urine, Muscle aches, Swelling of the lymph nodes in the groin, Tiredness, Headache, Swollen lymph glands, Aches and pain in the lower back groin and legs.",
+        "responses" : "Genital herpes is a viral condition which causes blisters on the genitals. It is a common condition that can affect both men and women."
+        },
+    {"tag" : "",
+        "patterns" : "",
+        "responses" : ""
+        },
+    {"tag" : "Neonatal Jaundice",
+        "patterns" : "Yellow skin below the knee, Yellow skin becoming more intense in colour, Difficulty feeding the baby, Difficulty waking the baby, Irritability, The baby arching his/her neck or body backwards.",
+        "responses" : "Neonatal jaundice otherwise known as neonatal hyperbilirubinemia is a common and usually harmless condition that turns the skin and other parts of a newborn baby's body yellow in color. Jaundice is often found among newborn babies. In fact, it is the most common disorder for which newborns receive medical attention and/or are (re)admitted to hospital. The condition is caused by excessive levels of the chemical compound bilirubin in the tissues of the body."
+        },
+    {"tag" : "Herpangina",
+        "patterns" : "Sore throat, Pain when swallowing, Headache, Sudden fever, Neck pain, Swollen lymph glands, Loss of appetite, Drooling, vomiting",
+        "responses" : "Herpangina is a viral infection of the mouth which is in most cases caused by a particular strain of group A coxsackievirus, but also by group B coxsackievirus, echovirus and enterovirus 71. It affects children more commonly than adults."
+        }
+    
+     
+    
+    
+    
+]}
