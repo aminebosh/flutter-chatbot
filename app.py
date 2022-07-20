@@ -6,22 +6,6 @@ import pandas as pd
 
 from trainig import Response
 
-'''''
-app = Flask(__name__)
-@app.route("/bot", Method=["POST"])
-
-
-def response():
-   query = dict(request.form)['query']
-   result = query + "AAAAAAAAAAA"
-   return jsonify({"response" : result})
-
-if __name__ == "__name__":
-      app.run(host="0.0.0.0",)
-
-
-'''''
-
 response = Response()
 
 app = Flask(__name__)
